@@ -1,0 +1,9 @@
+These files are too large for GitHub.
+
+Download the European Address File and unzip into this directory.
+
+Subdirectories should be "fi", "be", "de", "se", etc.  You only need "fi" to run this code.
+
+Available as a full download on https://www.openaddresses.io
+
+Actual file: https://data.openaddresses.io/openaddr-collected-europe.zip
